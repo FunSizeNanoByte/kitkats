@@ -961,7 +961,7 @@
             " 25  profession_Commercial           1129 non-null   uint8  \n",
             " 26  profession_Consult              1129 non-null   uint8  \n",
             " 27  profession_Engineer             1129 non-null   uint8  \n",
-            " 28  profession_Finan¤e              1129 non-null   uint8  \n",
+            " 28  profession_Finance              1129 non-null   uint8  \n",
             " 29  profession_HR                   1129 non-null   uint8  \n",
             " 30  profession_IT                   1129 non-null   uint8  \n",
             " 31  profession_Law                  1129 non-null   uint8  \n",
